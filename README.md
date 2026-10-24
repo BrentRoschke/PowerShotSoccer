@@ -1,5 +1,7 @@
 # Power Shot Soccer
 
+> **Disclaimer:** This game was vibe coded with AI as a quick test. It is not a polished or maintained project, so expect rough edges.
+
 A one-file browser soccer game. Open `index.html` in any browser.
 
 **Controls:** A / D move · W jump · Space kick · Space Space power shot (only while you glow gold).
